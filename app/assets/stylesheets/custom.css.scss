@@ -69,15 +69,6 @@ body {
   padding-left: 25px;
 }
 
-// .article-title {
-//
-// }
-
-.article-detail {
-  margin-top: 20px;
-  color: #0000ff;
-}
-
 // show
 
 .article-detail {
@@ -104,3 +95,17 @@ body {
 
 .sign-link a {
   color: #64103F; }
+
+// Devise Error Messages 
+
+#error_explanation {
+  background-color: #f2dede; 
+  color: #a94442; 
+  text-align: left;
+  padding: 5px 20px; 
+  margin-bottom: 30px;
+}
+  
+#error_explanation h2 { 
+  font-size: 150%;
+}  
